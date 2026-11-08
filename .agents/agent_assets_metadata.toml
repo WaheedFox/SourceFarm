@@ -60,3 +60,59 @@ storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:34edf2a6-f
 storage_version_token = "1794051783887252"
 content_type = "text/markdown"
 source_uri = "file://audit-deliverables/docs/architecture/PRODUCT_BOUNDARIES.md"
+
+[[outputs]]
+id = "wx-SskepjcI1vQiBm6ptp"
+uri = "file://docs/architecture/REPOSITORY_AUDIT.md"
+type = "text"
+title = "REPOSITORY_AUDIT.md"
+description = "المحتوى الكامل بصيغة Markdown — docs/architecture/REPOSITORY_AUDIT.md"
+logical_id = "a2ba8404-2a63-4a21-805d-3cf035d4055d"
+content_hash = "sha256:1af4f55fec2f6717d7f2f03930cf640cbbaefbf97c257515deddbc58610e75c1"
+size = 62368
+mtime_ms = 1794135705696
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:314ed692-1c7d-4ac2-9e3e-812a4d144c0e/a2ba8404-2a63-4a21-805d-3cf035d4055d/a3989717-2e5b-4a98-a6f6-e8d4eaf79da3"
+storage_version_token = "1794157645166511"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "K1GuvoEVmm1HP2cmGrEXA"
+uri = "file://docs/architecture/DEPENDENCY_MAP.md"
+type = "text"
+title = "DEPENDENCY_MAP.md"
+description = "المحتوى الكامل بصيغة Markdown — docs/architecture/DEPENDENCY_MAP.md"
+logical_id = "39694eaf-f734-4eef-ae88-2f46ff5f376a"
+content_hash = "sha256:6ee5539dcf181c3de35ad113a378d6fb9acf933efb910706731a5a825f016a34"
+size = 13760
+mtime_ms = 1794135572237
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:314ed692-1c7d-4ac2-9e3e-812a4d144c0e/39694eaf-f734-4eef-ae88-2f46ff5f376a/cc476891-ecd9-482c-980d-55a80d5d75af"
+storage_version_token = "1794157646455794"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "alph3E2NfanAQcxQVrLks"
+uri = "file://docs/architecture/TELEGRAM_API_COVERAGE.md"
+type = "text"
+title = "TELEGRAM_API_COVERAGE.md"
+description = "المحتوى الكامل بصيغة Markdown — docs/architecture/TELEGRAM_API_COVERAGE.md"
+logical_id = "6d638215-59cb-49d8-a26d-3048c4f29567"
+content_hash = "sha256:afed6f0a2ce6b6a15817d5c2d06fde9b0c19371a61aa4343b580ff3e1f321930"
+size = 221265
+mtime_ms = 1794135606072
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:314ed692-1c7d-4ac2-9e3e-812a4d144c0e/6d638215-59cb-49d8-a26d-3048c4f29567/1690aa5e-bfde-44cb-8cdd-1f0c2c4abe65"
+storage_version_token = "1794157647724955"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "-ELAh_k2xIiMyLc36uoMz"
+uri = "file://docs/architecture/PRODUCT_BOUNDARIES.md"
+type = "text"
+title = "PRODUCT_BOUNDARIES.md"
+description = "المحتوى الكامل بصيغة Markdown — docs/architecture/PRODUCT_BOUNDARIES.md"
+logical_id = "ce40ed44-33ca-4371-922c-3e8ff3918566"
+content_hash = "sha256:c37fe952e3fcbd08b7ad1951fc933a77ca926489d332a43789c1f3606b5a3908"
+size = 13547
+mtime_ms = 1794135588585
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:314ed692-1c7d-4ac2-9e3e-812a4d144c0e/ce40ed44-33ca-4371-922c-3e8ff3918566/9248c383-3527-436c-982a-70493932b3ca"
+storage_version_token = "1794157648995620"
+content_type = "text/markdown"
