@@ -1,0 +1,58 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "-O75cWPOGJmOODmazoXC9"
+uri = "file://audit-deliverables/docs/architecture/REPOSITORY_AUDIT.md"
+type = "text"
+title = "تدقيق المستودعات — SourceFarm وHozan وTitan وCUPS"
+description = "نتائج المرحلة صفر، الأدلة والاختبارات والمخاطر والقرارات المؤجلة قبل أي تطوير."
+logical_id = "add2eb0b-537a-405b-8b83-814671421bda"
+content_hash = "sha256:67ff136c93e498c959713b031a82663b7d7bc6e640a8e9e44365458aa7578281"
+size = 26613
+mtime_ms = 1794051695837
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:34edf2a6-f452-4432-96b8-bbbb7af91502/add2eb0b-537a-405b-8b83-814671421bda/4a1fb1c0-0998-4f63-9405-0f066e83f40a"
+storage_version_token = "1794051776197167"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "2XicENyiRNjsSK9ZnzAze"
+uri = "file://audit-deliverables/docs/architecture/DEPENDENCY_MAP.md"
+type = "text"
+title = "خريطة الاعتماديات وتدفقات البيانات"
+description = "العلاقات المثبتة بين SourceFarm وHozan وTitan وCUPS، مع توضيح ما لا يوجد تكامله بعد."
+logical_id = "b2c447d3-7ec7-4e51-90aa-32a8c1de29c7"
+content_hash = "sha256:a46f6792d62fc64d977b12830b722d7b1350ff472f51e9280a9fccda70864cdd"
+size = 10793
+mtime_ms = 1794051547466
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:34edf2a6-f452-4432-96b8-bbbb7af91502/b2c447d3-7ec7-4e51-90aa-32a8c1de29c7/cf016d04-baa8-46d7-ada3-aaa9292981e0"
+storage_version_token = "1794051779104673"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "5m6o7SNw6IlVoes6QB7cB"
+uri = "file://audit-deliverables/docs/architecture/TELEGRAM_API_COVERAGE.md"
+type = "text"
+title = "مصفوفة تغطية Telegram Bot API"
+description = "جرد كامل لطرق Bot API ومعاملاتها وأنواعها وحقولها وحقول Update، مقابل Titan وSourceFarm."
+logical_id = "c84e88fa-218b-4402-b5cb-931f10d11f11"
+content_hash = "sha256:5c746dc2ee7f03ffb5ba173cab1a89900c0a8e6e064fa91ddf0e0555a9cac8d6"
+size = 212098
+mtime_ms = 1794051731497
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:34edf2a6-f452-4432-96b8-bbbb7af91502/c84e88fa-218b-4402-b5cb-931f10d11f11/aa416000-645b-4e80-8af7-7e52dbaf3ea8"
+storage_version_token = "1794051781518037"
+content_type = "text/markdown"
+
+[[outputs]]
+id = "-_e0XtpLoIWfK5ybVe3xg"
+uri = "file://audit-deliverables/docs/architecture/PRODUCT_BOUNDARIES.md"
+type = "text"
+title = "حدود المنتجات — SourceFarm وHozan وCUPS"
+description = "مقارنة المسؤوليات المطلوبة بما تنفذه المستودعات فعلياً، دون اعتماد تصميم نهائي."
+logical_id = "31f96ae5-b981-4dff-821b-e30761edc5fa"
+content_hash = "sha256:17a77b4b97fd4c7427e035e06381c696fd97d96aa69cc34e42aa06856037cbd3"
+size = 10100
+mtime_ms = 1794051570904
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/conversation:34edf2a6-f452-4432-96b8-bbbb7af91502/31f96ae5-b981-4dff-821b-e30761edc5fa/e11932bb-7ca3-4192-a3b8-45d5af33b353"
+storage_version_token = "1794051783887252"
+content_type = "text/markdown"
